@@ -90,15 +90,6 @@ This course dives into advanced methods for **federated learning**, **collaborat
 ### Late Submission Policy  
 Late work is typically not accepted. If unavoidable, notify the instructor ahead of time. Acceptable late submissions incur a **25% penalty per 12 hours**, up to **48 hours** (2 days). No credit is given after 48 hours.
 
-### Academic Integrity  
-Auburn University enforces strict academic honesty standards. Cheating or plagiarism in any form (slides, writing, presentations, etc.) may result in a **zero** on the assignment or failure of the course. Trust and respect are foundational. :contentReference[oaicite:1]{index=1}
-
-### Accommodation  
-We follow Auburn University’s accommodations policies. Students requiring accommodations should engage with the Office of Accessibility and notify the instructor as early as possible. :contentReference[oaicite:2]{index=2}
-
-### Syllabus & Grading Revisions  
-The instructor reserves the right to update the syllabus or grading policy, with timely communication to students. :contentReference[oaicite:3]{index=3}
-
 ---
 
 ## Acknowledgments
@@ -108,16 +99,3 @@ The instructor reserves the right to update the syllabus or grading policy, with
 - **Hosted by**: Auburn University  
 
 ---
-
-**Contact**  
-Please reach out to the instructor during office hours or via official course channels for questions or clarifications.
-
----
-
-*Generated based on course information as of August 2025.*  
-```markdown
-
----
-
-Let me know if you'd like to adjust formatting, add sections like “Resources,” “Textbooks,” or “Communication Channels,” or tailor any policies or style elements!
-::contentReference[oaicite:4]{index=4}
