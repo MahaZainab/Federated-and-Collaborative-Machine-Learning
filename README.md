@@ -1,4 +1,3 @@
-# Federated-and-Collaborative-Machine-Learning
 # COMP 5970/6970: Federated and Collaborative Machine Learning
 
 **Instructor**: Jiaqi (Jack) Wang  
