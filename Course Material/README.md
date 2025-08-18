@@ -1,3 +1,3 @@
 ## Questions to be asked to  the professor
-Email the 
+Email the professor and ask
 Conferences list to submit the paper.
