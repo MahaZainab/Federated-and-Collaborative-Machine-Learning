@@ -1,5 +1,5 @@
 ## Questions to be asked to  the professor
-Email the professor and ask any:
+Email the professor and ask any ques:
 
 
 | Date       | Question | Status                                             | Response                           |
