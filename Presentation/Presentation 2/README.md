@@ -1,1 +1,1 @@
-# MAS-GPT: Training LLMS to build LLM-
+# MAS-GPT: Training LLMS to build LLM-based 
