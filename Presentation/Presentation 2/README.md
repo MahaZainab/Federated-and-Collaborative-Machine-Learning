@@ -1,1 +1,1 @@
-# MAS-GPT: 
+# MAS-GPT: Training LLMS
