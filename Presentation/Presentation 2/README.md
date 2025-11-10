@@ -1,1 +1,1 @@
-# MAS-GPT: Training LLMS to build LLM-based multi-
+# MAS-GPT: Training LLMS to build LLM-based multi-agent 
